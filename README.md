@@ -1,7 +1,5 @@
-- 👋 Hola, I’m @fire-poy
-- 👀 I’m a student in 42Lausanne
-- 🌱 I’m currently learning C
-and that's it for the moment
+Hello, I love you, won't you tell me your name?
+Hello, I love you, let me jump in your game 
 <!---
 fire-poy/fire-poy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

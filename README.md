@@ -13,7 +13,7 @@ Hello, I love you, let me jump in your game 🎶
 [![mpons's 42 stats](https://badge42.vercel.app/api/v2/cl3utchf300730amirruprlxe/stats?cursusId=21&coalitionId=192)](https://github.com/JaeSeoKim/badge42)
 | Rank | Learning       | Project           | Status                                                                                                                     |
 | ---- | -------        | --------          | -------                                                                                                                    |
-| 5️⃣   | Exam Rank 04   | Microshell(exam) | [![mpons's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl3utchf300730amirruprlxe/project/2601353)](https://github.com/JaeSeoKim/badge42)  |
+| 5️⃣   | C language     | Microshell(exam) | [![mpons's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl3utchf300730amirruprlxe/project/2601353)](https://github.com/JaeSeoKim/badge42)  |
 | 5️⃣   | C++ language   | CPP              | [![mpons's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl3utchf300730amirruprlxe/project/2601351)](https://github.com/JaeSeoKim/badge42)|
 | 5️⃣   | Network        | NetPractice      | [![mpons's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl3utchf300730amirruprlxe/project/2601349)](https://github.com/JaeSeoKim/badge42)  |
 | 4️⃣   | C language     | Minipaint        | [![mpons's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl3utchf300730amirruprlxe/project/2584349)](https://github.com/JaeSeoKim/badge42)  |
